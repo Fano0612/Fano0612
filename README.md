@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yonathan Fanuel Mulyadi</h1>
-<h3 align="left">An Undergraduate Computer Science's student at Brawijaya University. I love to code and dedicate every program I make to ease things people do, with Faith, Hope, and Love as my life motto. I like new challenges and always trying new things, a hard-working person, and very enthusiastic about everything that I do. I code for approximately 3 years (2023), with 7 programming languages that I mastered, which are Java, Python, HTML, CSS, Javascript, SQL, PHP, Kotlin, C, Go, I also mastered Figma for UI/UX Design and Adobe Premiere Pro for video editing. My field of expertise will be Front-end Development, Web Development, and UI/UX Designing.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fano0612" alt="fano0612" /></a> </p>
+<h3 align="left">An Undergraduate Computer Science's student at Brawijaya University. I love to code and dedicate every program I make to ease things people do, with Faith, Hope, and Love as my life motto. I like new challenges and always trying new things, a hard-working person, and very enthusiastic about everything that I do. I code for approximately 3 years (2023), with several programming languages that I mastered, I also mastered Figma for UI/UX Design and Adobe Premiere Pro for video editing. My field of expertise will be Front-end Development, Web Development, and UI/UX Designing.</h3>
 
 - 🌱 I’m currently learning **React.JS & GO Language**
 
